@@ -1,0 +1,2 @@
+RC Lowpass Filter:
+A lowpass filter is a resistor connected in series with the input signal and capacitor in parallel witth the output which attenuates the higher frequencies up to some cutoff point. The equation for the frequency cutoff is freq=1/2piRC where freq is the cutoff frequency, R is the resistor value and C is the capator value.
